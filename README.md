@@ -1,6 +1,6 @@
 Hi, I’m @UnstoppableWolf
 I’m interested in Programming, Game Development, CyberSec/Ethical Hacking. (now reverse engineering too some extent) and Music producing. 
-I’m currently learning Everything i just said above activly. I create random programs sometimes when im bored. might upload them here if they are useful.
+I’m currently learning Everything i just said above actively. I create random programs sometimes when im bored. might upload them here if they are useful.
 
 
 <!---
